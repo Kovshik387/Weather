@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\fanto\source\repos\Weather\Weather\server.cpp(69,30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Weather.vcxproj -> C:\Users\fanto\source\repos\Weather\x64\Debug\Weather.exe
